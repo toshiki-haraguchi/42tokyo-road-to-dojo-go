@@ -17,3 +17,6 @@ db/data
 # GoLand
 .idea/*
 .env
+
+# others
+others
